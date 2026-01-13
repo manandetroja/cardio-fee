@@ -160,9 +160,9 @@ export default function Home() {
             &copy; 2026 ALIVE AI. Engineered for Humanity.
           </p>
           <div className="mt-6 flex items-center justify-center gap-2 text-sm font-medium text-slate-500">
-            <span>Crafted by</span>
+            <span></span>
             <span className="text-white bg-white/5 px-3 py-1 rounded-full border border-white/10 hover:bg-white/10 transition-colors cursor-default">
-              Raj Vekariya
+              
             </span>
           </div>
         </div>
